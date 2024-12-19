@@ -58,7 +58,7 @@
     "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^2.4.5",
     "mitt": "^3.0.0",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.0.9",
     "npm-run-all": "4.x",
     "postcss": "^8.4.4",
     "postcss-flexbugs-fixes": "^5.0.2",
